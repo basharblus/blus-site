@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.blus-tech {
+  width: 150;
+  height: 150;
+}
+
+
+.bashar-blus {
+  width: 600;
+  height: 600;
+}
+
